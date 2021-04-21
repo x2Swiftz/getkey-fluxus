@@ -18,7 +18,7 @@
 <a href="https://dev.to/x2swiftz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="x2swiftz" height="30" width="40" /></a>
 <a href="https://fb.com/kz ratanasataporn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="kz ratanasataporn" height="30" width="40" /></a>
 <a href="https://instagram.com/x2swiftz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="x2swiftz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/x2swiftz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="x2swiftz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC4PgJsAU9mXVwAXhteaUBhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="x2swiftz" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/wYhSeJ8jUd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="https://discord.gg/wYhSeJ8jUd" height="30" width="40" /></a>
 </p>
 
